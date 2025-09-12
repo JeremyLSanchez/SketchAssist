@@ -1,5 +1,7 @@
 # 🖌️ SketchAssist — AI-Powered Sketch Evaluation Tool
 
+![SketchAssist Screenshot](screenshot.png)
+
 SketchAssist is a lightweight AI tool designed to help artists improve their sketch accuracy. Upload your sketch and a reference image, and SketchAssist will highlight proportion mismatches so you can correct mistakes before you paint.
 
 ---
@@ -38,4 +40,3 @@ SketchAssist is a lightweight AI tool designed to help artists improve their ske
    ```bash
    git clone https://github.com/JeremyLSanchez/SketchAssist.git
    cd SketchAssist
-   
